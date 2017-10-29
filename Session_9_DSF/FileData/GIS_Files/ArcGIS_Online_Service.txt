@@ -1,0 +1,5 @@
+ArcGIS ON-line service from other public account - EurecatBigDataAnalytics:
+
+http://services7.arcgis.com/KwEtZnTgYz1KM8Ji/arcgis/rest/services/ESTACIONS/FeatureServer
+
+http://services7.arcgis.com/KwEtZnTgYz1KM8Ji/arcgis/rest/services/METRO/FeatureServer

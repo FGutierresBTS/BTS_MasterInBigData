@@ -1,0 +1,3 @@
+Imagen satélite 2011: http://geoportal.amb.cat/arcgis/services/Cartografia/ImatgeSatellit2011_ETRS89/MapServer/WmsServer
+
+HRL Imperviousness Density 2012: http://copernicus.discomap.eea.europa.eu/arcgis/services/GioLandPublic/HRL_Imperviousness_Density_2012/MapServer/WmsServer?
