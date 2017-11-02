@@ -1,0 +1,4 @@
+Id,NUMBER,TITLE,DESC1,DESC2,DESC3,DESC4,WEBSITE,IMAGE_URL,LONG,LAT,Email
+1,1,Olivia plaza hotel,64,1900,1500,2110,http://www.oliviaplazahotel.com/welcome,https://fsgutierresbts.maps.arcgis.com/sharing/rest/content/items/8713226b068441c7bc13220211cbeaa0/data,2.171132253,41.386136,reservas.plaza@oliviahotels.es
+2,2,Hotel W Barcelona,26,650,789,980,http://www.w-barcelona.com/,https://fsgutierresbts.maps.arcgis.com/sharing/rest/content/items/b4cbc2a9d225478fa8851afc47d41ad9/data,2.189863588,41.36879687,http://www.starwoodhotels.com/whotels/support/contact/index.html
+3,3,Barceló Sants,22,1076,1200,1500,https://www.barcelo.com/es/hoteles/espana/barcelona/barcelo-sants/,https://fsgutierresbts.maps.arcgis.com/sharing/rest/content/items/3fe992f30c6745bfa90055a5b648e4af/data,2.140001325,41.37900616,https://barcelo.custhelp.com
