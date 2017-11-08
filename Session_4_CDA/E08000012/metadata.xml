@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codeBook xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xmlns="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<docDscr>
+		<citation>
+			<titlStmt>
+				<titl>CDRC 2015 OS Geodata Pack - Liverpool (E08000012)</titl>
+			</titlStmt>
+		</citation>
+	</docDscr>
+	<stdyDscr>
+		<citation>
+			<titlStmt>
+				<titl>CDRC 2015 OS Geodata Pack - Liverpool (E08000012)
+				</titl>
+				<altTitl></altTitl>
+			</titlStmt>
+			<rspStmt>
+				<AuthEnty>Alex Singleton</AuthEnty>
+				<AuthEnty>Hai Nguyen</AuthEnty>
+				<othId></othId>
+			</rspStmt>
+			<prodStmt>
+				<producer>ESRC Consumer Data Research Centre </producer>
+				<copyright>CDRC 2015 OS Geodata Pack by the ESRC Consumer Data Research Centre; Contains Ordnance Survey data © Crown copyright and database right 2015</copyright>
+				<fundAg>Economic and Social Research Council</fundAg>
+<grantNo agency="Economic and Social Research Council">ES/L011840/1</grantNo>
+							
+			</prodStmt>
+			<distStmt>
+				<contact>data@cdrc.ac.uk</contact>
+				<depositr>Alex Singleton, University of Liverpool</depositr>
+				
+				<distDate date="2015-07-09T00:00:00Z">2015-07-09</distDate>
+			</distStmt>
+			<serStmt>
+				<serName>CDRC 2015 OS Geodata Pack</serName>
+			</serStmt>
+			<verStmt>
+				<version date="2015-07-09T00:00:00Z">
+					1.0</version>
+			</verStmt>
+		</citation>
+		<stdyInfo>
+			<subject>
+				<keyword>Ordnance Survey Open Map - Local</keyword>
+				<keyword>Local Authority</keyword>
+				<keyword>2015</keyword>
+				<keyword>Liverpool</keyword>
+				<keyword>E08000012</keyword>
+				<keyword>Road Tunnel</keyword>
+				<keyword>Railway Tunnel</keyword>
+				<keyword>Railway Station</keyword>
+				<keyword>Roundabout</keyword>
+				<keyword>Railway Track</keyword>
+				<keyword>Woodland</keyword>
+				<keyword>Tidal Water</keyword>
+				<keyword>Tidal Boundary</keyword>
+				<keyword>Surface Water Line</keyword>
+				<keyword>Surface Water Area</keyword>
+				<keyword>Road</keyword>
+				<keyword>Named Place</keyword>
+				<keyword>Important Building</keyword>
+				<keyword>Functional Site</keyword>
+				<keyword>Foreshore</keyword>
+				<keyword>Electricity Transmission Line</keyword>
+				<keyword>Building</keyword>
+				<topcClas>Transport</topcClas>
+				<topcClas>Housing</topcClas>
+				<topcClas>Natural Environment</topcClas>
+			</subject>
+			<abstract>This CDRC 2015 OS Geodata Pack provides Ordnance Survey Open Map Shapefiles for the Local Authority District: Liverpool (E08000012)
+			</abstract>
+			<sumDscr>
+				<timePrd>2015</timePrd>
+				<collDate> 03/2015</collDate>
+				<nation>England</nation>
+				<geogCover>Liverpool</geogCover>
+				<geogUnit>Local Authority District</geogUnit>
+				<anlyUnit></anlyUnit>
+				<universe></universe>
+				<dataKind>Shapefile</dataKind>
+			</sumDscr>
+		</stdyInfo>
+		<method>
+			<dataColl>
+				<timeMeth></timeMeth>
+				<dataCollector>Ordnance Survey</dataCollector>
+				<sampProc></sampProc>
+				<deviat></deviat>
+				<collMode></collMode>
+				<sources><dataSrc>Ordnance Survey</dataSrc></sources>
+				<weight></weight>
+			</dataColl>
+		</method>
+		<dataAccs>
+			<setAvail>
+				<accsPlac>ESRC Consumer Data Research Centre</accsPlac>
+			</setAvail>
+			<useStmt>
+				<restrctn></restrctn>
+				<contact>data@cdrc.ac.uk</contact>
+			</useStmt>
+		</dataAccs>
+		<othrStdyMat>
+			<relStdy></relStdy>
+			<relPubl></relPubl>
+			<othRefs></othRefs>
+		</othrStdyMat>
+	</stdyDscr>
+</codeBook>
